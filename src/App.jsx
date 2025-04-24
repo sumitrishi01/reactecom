@@ -37,12 +37,12 @@ const App = () => {
       <WelocomeMarquee/>
       <Testimonial/>
       <Footer/>
-      {/* <LoginPage/> */}
-      {/* <SignupPage/> */}
-      {/* <ForgetPage/> */}
-      {/* <OtpPage/> */}
+      <LoginPage/> 
+      <SignupPage/>
+      <ForgetPage/>
+      <OtpPage/>
       <ProductPopUp/>
-      {/* <ProductDetailPage/> */}
+       <ProductDetailPage/>
     </>
   )
 }
